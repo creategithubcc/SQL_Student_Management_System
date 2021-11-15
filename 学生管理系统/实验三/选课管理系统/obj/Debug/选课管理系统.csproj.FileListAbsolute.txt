@@ -1,0 +1,12 @@
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.csprojAssemblyReference.cache
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.选课管理系统.resources
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.Properties.Resources.resources
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.csproj.GenerateResource.cache
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.csproj.CoreCompileInputs.cache
+C:\Users\25613\Desktop\选课管理系统\bin\Debug\选课管理系统.exe.config
+C:\Users\25613\Desktop\选课管理系统\bin\Debug\选课管理系统.exe
+C:\Users\25613\Desktop\选课管理系统\bin\Debug\选课管理系统.pdb
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.exe
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.pdb
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.zhuye.resources
+C:\Users\25613\Desktop\选课管理系统\obj\Debug\选课管理系统.kebiao.resources
