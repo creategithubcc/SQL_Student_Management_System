@@ -1,0 +1,2 @@
+# SQL_Student_Management_System
+大二小学期做的学生管理系统
